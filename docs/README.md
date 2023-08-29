@@ -37,7 +37,7 @@ features:
   - icon: repo
     title: 子藏
     details: 兵家，农家，法家，笔记，算法，类书，诸子。
-    link: https://ruguoaaa.github.io/xirang4/子藏/
+    link: /子藏/
 
   - icon: repo
     title: 集藏
