@@ -1,9 +1,10 @@
 ---
-title: 子藏
+title: 法家
 index: false
 icon: folder
+order: 7
 category:
-  - 子藏
+  - 法家
 ---
 
 <AutoCatalog  />

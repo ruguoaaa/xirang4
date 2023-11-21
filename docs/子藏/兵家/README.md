@@ -1,9 +1,10 @@
 ---
-title: 子藏
+title: 兵家
 index: false
 icon: folder
+order: 3
 category:
-  - 子藏
+  - 兵家
 ---
 
 <AutoCatalog  />

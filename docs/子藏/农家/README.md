@@ -1,9 +1,10 @@
 ---
-title: 子藏
+title: 农家
 index: false
 icon: folder
+order: 9
 category:
-  - 子藏
+  - 农家
 ---
 
 <AutoCatalog  />
